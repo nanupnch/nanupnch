@@ -10,7 +10,6 @@ I work mostly with Go, Java/Spring Boot, TypeScript/NestJS, PostgreSQL, Kafka, R
 - PostgreSQL transaction design and concurrency control
 - Event-driven workflows with Kafka
 - Idempotent APIs and retry-safe processing
-- Backend observability and operational handoff
 
 ## Featured projects
 
